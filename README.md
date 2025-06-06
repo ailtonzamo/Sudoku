@@ -18,6 +18,7 @@ Programação Orientada a Objetos (POO) – Estrutura baseada em Board, Space e 
 Estruturas de Dados – Implementação com List<List<Space>> para representação do tabuleiro.
 
 🎯 Objetivo
+
 Este projeto busca proporcionar uma experiência envolvente, permitindo que usuários joguem, aprendam e resolvam o Sudoku com facilidade. Além disso, serve como um ótimo estudo de lógica, estruturas de dados e desenvolvimento de interfaces gráficas.
 
 💡 Quebrando a cabeça com números? Esse Sudoku é a solução! 😃🚀 Caso tenha sugestões ou melhorias, contribua! 🎨
