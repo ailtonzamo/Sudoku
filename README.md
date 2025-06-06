@@ -1,8 +1,11 @@
 🎲 Projeto Sudoku
+
 📌 Visão Geral
+
 O Projeto Sudoku é um jogo interativo baseado no clássico desafio numérico. Desenvolvido em Java, ele permite que usuários preencham, validem e resolvam tabuleiros de Sudoku de forma dinâmica e intuitiva.
 
 🚀 Funcionalidades
+
 ✅ Gerador de Tabuleiro Aleatório – Criação de um tabuleiro inicial com números fixos e espaços editáveis. ✅ Inserção Manual de Números – O jogador pode preencher os espaços vazios conforme as regras do jogo. ✅ Validação de Tabuleiro – Confirma se não há números repetidos em linhas, colunas e blocos 3x3. ✅ Verificação de Completo – Determina se todos os espaços foram preenchidos corretamente. ✅ Resolução Automática – Algoritmo que preenche o tabuleiro seguindo as regras do Sudoku. ✅ Interface Gráfica Interativa – Desenvolvida com Swing, oferecendo uma experiência visual intuitiva.
 
 🔧 Tecnologias Utilizadas
